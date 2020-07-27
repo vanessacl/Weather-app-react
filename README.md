@@ -23,5 +23,5 @@ npm test
 npm start
 
 #### To Visit App:
-http://localhost:5000 
+https://weather-application-react.netlify.app/
 
