@@ -14,11 +14,11 @@ Clone this repository. Make sure you have installed node and npm.
 
 #### To Run Test Suite:
 
-#####npm test
+##### npm test
 
 #### To Start Server:
 
-#####npm start
+##### npm start
 
 #### Check this App:
 https://weather-application-react.netlify.app/
