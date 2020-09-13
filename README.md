@@ -1,18 +1,16 @@
-# Weather-react-app
+# Weather App with React
 
-An application used to see the weather. Enter the name of the city where you want to check the weather.
+With this application you can check the weather of the city you enter in the search field.
 
 ### Technologies:
 Javascript, React, HTML and CSS.
 
-<img src="build/static/media/Screenshot.png" width= "450">
-
-### Installation and Setup Instructions
-Clone this repository. You will need node and npm installed globally on your machine.
+### Quick start:
+Clone this repository. Make sure you have installed node and npm.
 
 #### Installation:
 
-npm install
+##### npm install
 
 #### To Run Test Suite:
 
@@ -24,4 +22,7 @@ npm start
 
 #### Check this App:
 https://weather-application-react.netlify.app/
+
+<img src="build/static/media/Screenshot.png" width= "450">
+
 
