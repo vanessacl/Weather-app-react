@@ -20,7 +20,7 @@ Clone this repository. Make sure you have installed node and npm.
 
 ##### npm start
 
-#### Check this App:
+#### Live:
 https://weather-application-react.netlify.app/
 
 <img src="build/static/media/Screenshot.png" width= "450">
